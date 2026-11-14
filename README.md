@@ -1,4 +1,4 @@
-HEAT SIGNAL
+HEAT-SIGNAL
 NASA Space Apps Challenge: Earth System Trend Detective
 
 FILES
